@@ -27,5 +27,5 @@ try
 catch (System.Exception)
 {
     
-    System.Console.WriteLine("Вы ввели не целочисленное число. Попробуйте снова.");;
+    System.Console.WriteLine("Вы ввели не целочисленное число. Попробуйте снова.");
 }
